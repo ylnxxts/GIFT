@@ -160,13 +160,13 @@ performance is stable for `B` between 6 and 10.
 ## Citation
 
 ```bibtex
-@inproceedings{ma2026gift,
-  title     = {GIFT: Global Irreplaceability Frame Targeting for Efficient Video Understanding},
-  author    = {Ma, Junpeng and Zhou, Sashuai and Li, Guanghao and Gao, Xin and Cao, Yue and
-               Zeng, Hengyu and Yan, Yuxiang and Wang, Zhibin and Song, Jun and Zheng, Bo and
-               Zhang, Shanghang and Pu, Jian},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year      = {2026}
+@InProceedings{Ma_2026_CVPR,
+    author    = {Ma, Junpeng and Zhou, Sashuai and Li, Guanghao and Gao, Xin and Cao, Yue and Zeng, Hengyu and Yan, Yuxiang and Wang, Zhibin and Song, Jun and Zheng, Bo and Zhang, Shanghang and Pu, Jian},
+    title     = {GIFT: Global Irreplaceability Frame Targeting for Efficient Video Understanding},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {25610-25620}
 }
 ```
 
